@@ -1,0 +1,552 @@
+[
+  {
+    "category": "Podstawy i kontrola roweru",
+    "nameEn": "Trackstand",
+    "descriptionPl": "Utrzymywanie równowagi niemal w miejscu."
+  },
+  {
+    "category": "Podstawy i kontrola roweru",
+    "nameEn": "Wheelie",
+    "descriptionPl": "Jazda na tylnym kole z pedałowaniem."
+  },
+  {
+    "category": "Podstawy i kontrola roweru",
+    "nameEn": "Manual",
+    "descriptionPl": "Jazda na tylnym kole bez pedałowania, przez balans ciała."
+  },
+  {
+    "category": "Podstawy i kontrola roweru",
+    "nameEn": "Stoppie / Endo",
+    "descriptionPl": "Uniesienie tylnego koła przy hamowaniu przednim hamulcem."
+  },
+  {
+    "category": "Podstawy i kontrola roweru",
+    "nameEn": "Bunny Hop",
+    "descriptionPl": "Podskok obydwoma kołami bez rampy."
+  },
+  {
+    "category": "Podstawy i kontrola roweru",
+    "nameEn": "English Bunny Hop",
+    "descriptionPl": "Jednoczesne poderwanie obu kół."
+  },
+  {
+    "category": "Podstawy i kontrola roweru",
+    "nameEn": "American Bunny Hop",
+    "descriptionPl": "Najpierw uniesienie przodu, potem tylnego koła."
+  },
+  {
+    "category": "Podstawy i kontrola roweru",
+    "nameEn": "Front Wheel Lift",
+    "descriptionPl": "Uniesienie przedniego koła."
+  },
+  {
+    "category": "Podstawy i kontrola roweru",
+    "nameEn": "Rear Wheel Lift",
+    "descriptionPl": "Uniesienie tylnego koła."
+  },
+  {
+    "category": "Podstawy i kontrola roweru",
+    "nameEn": "Pumping",
+    "descriptionPl": "Przyspieszanie na muldach przez pracę ciałem, bez pedałowania."
+  },
+  {
+    "category": "Podstawy i kontrola roweru",
+    "nameEn": "Jump",
+    "descriptionPl": "Skok z wybicia."
+  },
+  {
+    "category": "Podstawy i kontrola roweru",
+    "nameEn": "Drop",
+    "descriptionPl": "Zeskok z wyższego poziomu na niższy."
+  },
+  {
+    "category": "Podstawy i kontrola roweru",
+    "nameEn": "Preload",
+    "descriptionPl": "Dociśnięcie roweru przed wybiciem."
+  },
+  {
+    "category": "Podstawy i kontrola roweru",
+    "nameEn": "Scrub",
+    "descriptionPl": "Obniżenie toru lotu przez pochylenie roweru przy wybiciu."
+  },
+  {
+    "category": "Podstawy i kontrola roweru",
+    "nameEn": "Whip",
+    "descriptionPl": "Wyrzucenie tylnej części roweru na bok w locie i wyprostowanie przed lądowaniem."
+  },
+  {
+    "category": "Triki w powietrzu - dirt jump i slopestyle",
+    "nameEn": "Tabletop",
+    "descriptionPl": "Położenie roweru niemal poziomo na bok w locie."
+  },
+  {
+    "category": "Triki w powietrzu - dirt jump i slopestyle",
+    "nameEn": "Turndown",
+    "descriptionPl": "Silne skręcenie kierownicy i ciała z wyprostowaną nogą."
+  },
+  {
+    "category": "Triki w powietrzu - dirt jump i slopestyle",
+    "nameEn": "Toboggan",
+    "descriptionPl": "Chwycenie siodełka jedną ręką przy skręconej kierownicy."
+  },
+  {
+    "category": "Triki w powietrzu - dirt jump i slopestyle",
+    "nameEn": "One Hander",
+    "descriptionPl": "Puszczenie kierownicy jedną ręką."
+  },
+  {
+    "category": "Triki w powietrzu - dirt jump i slopestyle",
+    "nameEn": "No Hander",
+    "descriptionPl": "Puszczenie kierownicy obiema rękami."
+  },
+  {
+    "category": "Triki w powietrzu - dirt jump i slopestyle",
+    "nameEn": "Tuck No Hander",
+    "descriptionPl": "Utrzymanie roweru nogami i rozłożenie obu rąk."
+  },
+  {
+    "category": "Triki w powietrzu - dirt jump i slopestyle",
+    "nameEn": "One Footer",
+    "descriptionPl": "Zdjęcie jednej nogi z pedału."
+  },
+  {
+    "category": "Triki w powietrzu - dirt jump i slopestyle",
+    "nameEn": "No Footer",
+    "descriptionPl": "Zdjęcie obu nóg z pedałów."
+  },
+  {
+    "category": "Triki w powietrzu - dirt jump i slopestyle",
+    "nameEn": "Can-Can",
+    "descriptionPl": "Przełożenie jednej nogi nad ramą na drugą stronę."
+  },
+  {
+    "category": "Triki w powietrzu - dirt jump i slopestyle",
+    "nameEn": "No Foot Can-Can",
+    "descriptionPl": "Zdjęcie obu nóg i wyrzucenie ich na jedną stronę roweru."
+  },
+  {
+    "category": "Triki w powietrzu - dirt jump i slopestyle",
+    "nameEn": "Superman",
+    "descriptionPl": "Wyprostowanie obu nóg za rowerem."
+  },
+  {
+    "category": "Triki w powietrzu - dirt jump i slopestyle",
+    "nameEn": "Superman Seat Grab",
+    "descriptionPl": "Superman z chwytem za siodełko."
+  },
+  {
+    "category": "Triki w powietrzu - dirt jump i slopestyle",
+    "nameEn": "Seat Grab",
+    "descriptionPl": "Chwycenie siodełka w locie."
+  },
+  {
+    "category": "Triki w powietrzu - dirt jump i slopestyle",
+    "nameEn": "Seat Clap",
+    "descriptionPl": "Złączenie stóp nad siodełkiem w locie."
+  },
+  {
+    "category": "Triki w powietrzu - dirt jump i slopestyle",
+    "nameEn": "Barspin",
+    "descriptionPl": "Pełny obrót kierownicy o 360 stopni."
+  },
+  {
+    "category": "Triki w powietrzu - dirt jump i slopestyle",
+    "nameEn": "X-Up / Cross-Up",
+    "descriptionPl": "Mocne skręcenie kierownicy ze skrzyżowaniem rąk."
+  },
+  {
+    "category": "Triki w powietrzu - dirt jump i slopestyle",
+    "nameEn": "Truckdriver",
+    "descriptionPl": "Obrót 360 stopni połączony z barspinem."
+  },
+  {
+    "category": "Triki w powietrzu - dirt jump i slopestyle",
+    "nameEn": "Tailwhip",
+    "descriptionPl": "Pełny obrót ramy roweru wokół osi przedniej części roweru."
+  },
+  {
+    "category": "Triki w powietrzu - dirt jump i slopestyle",
+    "nameEn": "Double Tailwhip",
+    "descriptionPl": "Dwa obroty ramy."
+  },
+  {
+    "category": "Triki w powietrzu - dirt jump i slopestyle",
+    "nameEn": "Triple Tailwhip",
+    "descriptionPl": "Trzy obroty ramy."
+  },
+  {
+    "category": "Triki w powietrzu - dirt jump i slopestyle",
+    "nameEn": "Decade",
+    "descriptionPl": "Obrót zawodnika wokół przedniej części roweru."
+  },
+  {
+    "category": "Triki w powietrzu - dirt jump i slopestyle",
+    "nameEn": "Nothing",
+    "descriptionPl": "Jednoczesne puszczenie kierownicy i obu pedałów."
+  },
+  {
+    "category": "Triki w powietrzu - dirt jump i slopestyle",
+    "nameEn": "Cliffhanger",
+    "descriptionPl": "Wyprostowanie ciała z nogami zaczepionymi o kierownicę."
+  },
+  {
+    "category": "Triki w powietrzu - dirt jump i slopestyle",
+    "nameEn": "Indian Air",
+    "descriptionPl": "Skrzyżowanie nóg za rowerem w locie."
+  },
+  {
+    "category": "Triki w powietrzu - dirt jump i slopestyle",
+    "nameEn": "Saran Wrap",
+    "descriptionPl": "Przełożenie nogi wokół przedniej części roweru."
+  },
+  {
+    "category": "Triki w powietrzu - dirt jump i slopestyle",
+    "nameEn": "Suicide No Hander",
+    "descriptionPl": "Puszczenie obu rąk przy odchyleniu ciała do tyłu."
+  },
+  {
+    "category": "Triki w powietrzu - dirt jump i slopestyle",
+    "nameEn": "Nac-Nac",
+    "descriptionPl": "Przełożenie jednej nogi za siodełkiem na drugą stronę."
+  },
+  {
+    "category": "Triki w powietrzu - dirt jump i slopestyle",
+    "nameEn": "Candy Bar",
+    "descriptionPl": "Przełożenie nogi nad kierownicą między ramionami."
+  },
+  {
+    "category": "Triki w powietrzu - dirt jump i slopestyle",
+    "nameEn": "Lookback",
+    "descriptionPl": "Mocne skręcenie tułowia i spojrzenie do tyłu."
+  },
+  {
+    "category": "Triki w powietrzu - dirt jump i slopestyle",
+    "nameEn": "Pendulum",
+    "descriptionPl": "Wahadłowe przerzucenie nóg na bok."
+  },
+  {
+    "category": "Obroty, salta i kombinacje",
+    "nameEn": "180",
+    "descriptionPl": "Obrót roweru i zawodnika o pół obrotu."
+  },
+  {
+    "category": "Obroty, salta i kombinacje",
+    "nameEn": "360",
+    "descriptionPl": "Pełny obrót wokół osi pionowej."
+  },
+  {
+    "category": "Obroty, salta i kombinacje",
+    "nameEn": "540",
+    "descriptionPl": "Półtora obrotu."
+  },
+  {
+    "category": "Obroty, salta i kombinacje",
+    "nameEn": "720",
+    "descriptionPl": "Dwa pełne obroty."
+  },
+  {
+    "category": "Obroty, salta i kombinacje",
+    "nameEn": "900",
+    "descriptionPl": "Dwa i pół obrotu."
+  },
+  {
+    "category": "Obroty, salta i kombinacje",
+    "nameEn": "1080",
+    "descriptionPl": "Trzy pełne obroty."
+  },
+  {
+    "category": "Obroty, salta i kombinacje",
+    "nameEn": "Backflip",
+    "descriptionPl": "Salto w tył z rowerem."
+  },
+  {
+    "category": "Obroty, salta i kombinacje",
+    "nameEn": "Frontflip",
+    "descriptionPl": "Salto w przód z rowerem."
+  },
+  {
+    "category": "Obroty, salta i kombinacje",
+    "nameEn": "Double Backflip",
+    "descriptionPl": "Dwa salta w tył."
+  },
+  {
+    "category": "Obroty, salta i kombinacje",
+    "nameEn": "Triple Backflip",
+    "descriptionPl": "Trzy salta w tył."
+  },
+  {
+    "category": "Obroty, salta i kombinacje",
+    "nameEn": "Double Frontflip",
+    "descriptionPl": "Dwa salta w przód."
+  },
+  {
+    "category": "Obroty, salta i kombinacje",
+    "nameEn": "Flair",
+    "descriptionPl": "Backflip połączony z obrotem o 180 stopni."
+  },
+  {
+    "category": "Obroty, salta i kombinacje",
+    "nameEn": "Cork 360",
+    "descriptionPl": "Obrót 360 stopni poza osią pionową."
+  },
+  {
+    "category": "Obroty, salta i kombinacje",
+    "nameEn": "Cork 720",
+    "descriptionPl": "Obrót 720 stopni poza osią pionową."
+  },
+  {
+    "category": "Obroty, salta i kombinacje",
+    "nameEn": "Cashroll",
+    "descriptionPl": "Złożona rotacja poza osią z elementami salta i obrotu."
+  },
+  {
+    "category": "Obroty, salta i kombinacje",
+    "nameEn": "Twister",
+    "descriptionPl": "Zaawansowana rotacja łącząca różne osie obrotu; nazwa bywa używana różnie."
+  },
+  {
+    "category": "Obroty, salta i kombinacje",
+    "nameEn": "Backflip Barspin",
+    "descriptionPl": "Salto w tył z obrotem kierownicy."
+  },
+  {
+    "category": "Obroty, salta i kombinacje",
+    "nameEn": "Backflip Tailwhip",
+    "descriptionPl": "Salto w tył z obrotem ramy."
+  },
+  {
+    "category": "Obroty, salta i kombinacje",
+    "nameEn": "Frontflip Barspin",
+    "descriptionPl": "Salto w przód z obrotem kierownicy."
+  },
+  {
+    "category": "Obroty, salta i kombinacje",
+    "nameEn": "360 Tailwhip",
+    "descriptionPl": "Obrót 360 stopni połączony z tailwhipem."
+  },
+  {
+    "category": "Obroty, salta i kombinacje",
+    "nameEn": "720 Barspin",
+    "descriptionPl": "Obrót 720 stopni z barspinem."
+  },
+  {
+    "category": "Obroty, salta i kombinacje",
+    "nameEn": "Backflip Superman",
+    "descriptionPl": "Salto w tył z wyprostowaniem nóg za rowerem."
+  },
+  {
+    "category": "Obroty, salta i kombinacje",
+    "nameEn": "360 No Hander",
+    "descriptionPl": "Obrót 360 stopni z puszczeniem kierownicy."
+  },
+  {
+    "category": "Street i trial",
+    "nameEn": "Fakie",
+    "descriptionPl": "Jazda rowerem do tyłu."
+  },
+  {
+    "category": "Street i trial",
+    "nameEn": "Rollback",
+    "descriptionPl": "Cofnięcie się po zatrzymaniu, często z powrotem do jazdy przodem."
+  },
+  {
+    "category": "Street i trial",
+    "nameEn": "Half Cab",
+    "descriptionPl": "Obrót o 180 stopni z jazdy do tyłu."
+  },
+  {
+    "category": "Street i trial",
+    "nameEn": "Full Cab",
+    "descriptionPl": "Obrót o 360 stopni z jazdy do tyłu."
+  },
+  {
+    "category": "Street i trial",
+    "nameEn": "Nose Manual",
+    "descriptionPl": "Balansowanie na przednim kole podczas jazdy."
+  },
+  {
+    "category": "Street i trial",
+    "nameEn": "Nose Pivot",
+    "descriptionPl": "Obrót wokół przedniego koła."
+  },
+  {
+    "category": "Street i trial",
+    "nameEn": "Endo Turn",
+    "descriptionPl": "Obrót na przednim kole z wykorzystaniem hamulca."
+  },
+  {
+    "category": "Street i trial",
+    "nameEn": "Pivot",
+    "descriptionPl": "Obrót roweru wokół jednego koła."
+  },
+  {
+    "category": "Street i trial",
+    "nameEn": "Footjam",
+    "descriptionPl": "Zablokowanie przedniego koła stopą przy widelcu."
+  },
+  {
+    "category": "Street i trial",
+    "nameEn": "Footjam Tailwhip",
+    "descriptionPl": "Obrót ramy przy zablokowanym stopą przednim kole."
+  },
+  {
+    "category": "Street i trial",
+    "nameEn": "Footplant",
+    "descriptionPl": "Oparcie stopy na podłożu lub przeszkodzie podczas manewru."
+  },
+  {
+    "category": "Street i trial",
+    "nameEn": "Wallride",
+    "descriptionPl": "Przejazd po stromej lub pionowej ścianie."
+  },
+  {
+    "category": "Street i trial",
+    "nameEn": "Walltap",
+    "descriptionPl": "Krótkie dotknięcie ściany kołem w skoku."
+  },
+  {
+    "category": "Street i trial",
+    "nameEn": "Tire Tap",
+    "descriptionPl": "Krótkie dotknięcie przeszkody oponą."
+  },
+  {
+    "category": "Street i trial",
+    "nameEn": "Abubaca",
+    "descriptionPl": "Zatrzymanie na tylnym kole na krawędzi i powrót tyłem."
+  },
+  {
+    "category": "Street i trial",
+    "nameEn": "Fufanu",
+    "descriptionPl": "Zatrzymanie na tylnym kole na krawędzi i powrót przodem po obrocie."
+  },
+  {
+    "category": "Street i trial",
+    "nameEn": "Pedal Stall",
+    "descriptionPl": "Zatrzymanie z pedałem opartym na przeszkodzie."
+  },
+  {
+    "category": "Street i trial",
+    "nameEn": "Crankflip",
+    "descriptionPl": "Obrót korb pod stopami podczas podskoku."
+  },
+  {
+    "category": "Street i trial",
+    "nameEn": "Gap Jump",
+    "descriptionPl": "Przeskoczenie przerwy między powierzchniami."
+  },
+  {
+    "category": "Street i trial",
+    "nameEn": "Side Hop",
+    "descriptionPl": "Boczny podskok rowerem."
+  },
+  {
+    "category": "Street i trial",
+    "nameEn": "Pedal Kick",
+    "descriptionPl": "Krótkie mocne naciśnięcie pedałów, by podbić rower."
+  },
+  {
+    "category": "Street i trial",
+    "nameEn": "Rear Wheel Hop",
+    "descriptionPl": "Podskakiwanie na tylnym kole."
+  },
+  {
+    "category": "Street i trial",
+    "nameEn": "Front Wheel Hop",
+    "descriptionPl": "Podskakiwanie na przednim kole."
+  },
+  {
+    "category": "Street i trial",
+    "nameEn": "Rock Walk",
+    "descriptionPl": "Etapowe obracanie roweru na przednim i tylnym kole."
+  },
+  {
+    "category": "Street i trial",
+    "nameEn": "Up to Rear",
+    "descriptionPl": "Wskok na przeszkodę z lądowaniem na tylnym kole."
+  },
+  {
+    "category": "Street i trial",
+    "nameEn": "Hook",
+    "descriptionPl": "Zahaczenie kołem o krawędź przy pokonywaniu przeszkody."
+  },
+  {
+    "category": "Techniki terenowe i rodzaje skoków",
+    "nameEn": "Berm Riding",
+    "descriptionPl": "Jazda po profilowanym zakręcie."
+  },
+  {
+    "category": "Techniki terenowe i rodzaje skoków",
+    "nameEn": "Flat Cornering",
+    "descriptionPl": "Pokonywanie płaskiego zakrętu z pochyleniem roweru."
+  },
+  {
+    "category": "Techniki terenowe i rodzaje skoków",
+    "nameEn": "Switchback",
+    "descriptionPl": "Pokonywanie ciasnego nawrotu."
+  },
+  {
+    "category": "Techniki terenowe i rodzaje skoków",
+    "nameEn": "Front Wheel Pivot",
+    "descriptionPl": "Przestawienie tyłu roweru wokół przedniego koła."
+  },
+  {
+    "category": "Techniki terenowe i rodzaje skoków",
+    "nameEn": "Rear Wheel Pivot",
+    "descriptionPl": "Przestawienie przodu roweru wokół tylnego koła."
+  },
+  {
+    "category": "Techniki terenowe i rodzaje skoków",
+    "nameEn": "Rock Garden",
+    "descriptionPl": "Przejazd przez kamienistą sekcję."
+  },
+  {
+    "category": "Techniki terenowe i rodzaje skoków",
+    "nameEn": "Manual Drop",
+    "descriptionPl": "Pokonanie uskoku z uniesionym przednim kołem."
+  },
+  {
+    "category": "Techniki terenowe i rodzaje skoków",
+    "nameEn": "Bunny Hop Gap",
+    "descriptionPl": "Przeskoczenie szczeliny techniką bunny hop."
+  },
+  {
+    "category": "Techniki terenowe i rodzaje skoków",
+    "nameEn": "Step-Up",
+    "descriptionPl": "Skok z lądowaniem wyżej niż wybicie."
+  },
+  {
+    "category": "Techniki terenowe i rodzaje skoków",
+    "nameEn": "Step-Down",
+    "descriptionPl": "Skok z lądowaniem niżej niż wybicie."
+  },
+  {
+    "category": "Techniki terenowe i rodzaje skoków",
+    "nameEn": "Hip Jump",
+    "descriptionPl": "Skok ze zmianą kierunku na boczne lądowanie."
+  },
+  {
+    "category": "Techniki terenowe i rodzaje skoków",
+    "nameEn": "Transfer",
+    "descriptionPl": "Przeskoczenie między osobnymi przeszkodami."
+  },
+  {
+    "category": "Techniki terenowe i rodzaje skoków",
+    "nameEn": "Double",
+    "descriptionPl": "Przeskoczenie zagłębienia między dwiema muldami."
+  },
+  {
+    "category": "Techniki terenowe i rodzaje skoków",
+    "nameEn": "Triple",
+    "descriptionPl": "Przeskoczenie dwóch zagłębień między muldami."
+  },
+  {
+    "category": "Techniki terenowe i rodzaje skoków",
+    "nameEn": "Roller",
+    "descriptionPl": "Przejazd przez zaokrągloną muldę bez odrywania kół."
+  },
+  {
+    "category": "Techniki terenowe i rodzaje skoków",
+    "nameEn": "Pumptrack Flow",
+    "descriptionPl": "Płynne utrzymywanie prędkości na pumptracku przez pompowanie."
+  }
+]
